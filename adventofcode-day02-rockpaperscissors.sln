@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode-day02-rockpaperscissors", "adventofcode-day02-rockpaperscissors\adventofcode-day02-rockpaperscissors.csproj", "{300BD67B-CD8C-4579-A896-5F8EF23ABB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300BD67B-CD8C-4579-A896-5F8EF23ABB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300BD67B-CD8C-4579-A896-5F8EF23ABB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300BD67B-CD8C-4579-A896-5F8EF23ABB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300BD67B-CD8C-4579-A896-5F8EF23ABB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDB7915-3EAA-4332-80CA-F7954333806A}
+	EndGlobalSection
+EndGlobal
